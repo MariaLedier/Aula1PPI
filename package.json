@@ -1,0 +1,26 @@
+{
+  "name": "aula1ppi",
+  "version": "1.0.0",
+  "description": "aula ao vivo do dia 25/04",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaLedier/Aula1PPI.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "ppi"
+  ],
+  "author": "Maria Clara Ledier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaLedier/Aula1PPI/issues"
+  },
+  "homepage": "https://github.com/MariaLedier/Aula1PPI#readme"
+}
